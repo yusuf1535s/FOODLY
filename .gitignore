@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
